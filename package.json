@@ -1,5 +1,5 @@
 {
-  "name": "webpack-starter-kit",
+  "name": "goit-js-hw-10-food-service",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "git+https://github.com/Nezvinskyi/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dmitry Nezvinskyi <nezvinskyi@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
-  },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://nezvinskyi.github.io/goit-js-hw-10-food-service/",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
@@ -28,6 +25,9 @@
     "babel-loader": "^8.1.0",
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^4.3.0",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
     "file-loader": "^6.1.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "gh-pages": "^3.1.0",
